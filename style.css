@@ -1,0 +1,20 @@
+body {
+    background-color: azure;
+    background-image: url("water-blue.jpg");
+}
+
+.title-head {
+    color: black;
+}
+
+.desc-head {
+    color: black;
+}
+
+.del-head {
+    color: black;
+}
+
+hr {
+    border-top: 1px solid rgb(30, 255, 0);
+}
